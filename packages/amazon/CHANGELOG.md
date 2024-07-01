@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.14.5](https://github.com/spinnaker/deck/compare/@spinnaker/amazon@0.14.4...@spinnaker/amazon@0.14.5) (2024-06-10)
+
+
+### Bug Fixes
+
+* **lambda:** Export LambdaRoute stage on aws module ([#10116](https://github.com/spinnaker/deck/issues/10116)) ([1f6d2c1](https://github.com/spinnaker/deck/commit/1f6d2c1a69bfae5fd8b6bb9f5fbf0b7fb86930d3))
+
+
+
+
+
+## [0.14.4](https://github.com/spinnaker/deck/compare/@spinnaker/amazon@0.14.3...@spinnaker/amazon@0.14.4) (2024-05-10)
+
+
+### Bug Fixes
+
+* **lambda:** Invoke stage excludedArtifactTypes not including the embedded-artifact type ([#10097](https://github.com/spinnaker/deck/issues/10097)) ([9374f06](https://github.com/spinnaker/deck/commit/9374f0630afb6a174bacf64e9f2ced750bbf4f1d))
+* **lambdaStages:** Exporting Lambda stages based on the feature flag settings ([#10085](https://github.com/spinnaker/deck/issues/10085)) ([93bab65](https://github.com/spinnaker/deck/commit/93bab656555fabd539e186587a40dd8a0358dbd9))
+
+
+
+
+
 ## [0.14.3](https://github.com/spinnaker/deck/compare/@spinnaker/amazon@0.14.2...@spinnaker/amazon@0.14.3) (2023-12-07)
 
 
